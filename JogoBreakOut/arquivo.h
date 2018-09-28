@@ -1,0 +1,7 @@
+#ifndef ARQUIVO_H_INCLUDED
+#define ARQUIVO_H_INCLUDED
+#endif // ARQUIVO_H_INCLUDED
+
+void LoadFile();//CARREGA O ARQUIVO
+void SaveFile();//SALVA O ARQUIVO
+void Abertura();//INFORMAÇÕES SOBRE A ABERTURA DO ARQUIVO

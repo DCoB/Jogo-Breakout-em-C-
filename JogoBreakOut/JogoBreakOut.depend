@@ -1,0 +1,209 @@
+# depslib dependency file v1.0
+1512530720 source:c:\users\antoniel\desktop\daniel\codeblocks\projetos\jogobreakout\arquivo.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"arquivo.h"
+
+1512530272 source:c:\users\antoniel\desktop\daniel\codeblocks\projetos\jogobreakout\auxiliares.c
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+	<TIME.H>
+	<conio.h>
+	"Auxiliares.h"
+	"tela.h"
+
+1512530353 source:c:\users\antoniel\desktop\daniel\codeblocks\projetos\jogobreakout\blocos.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<TIME.H>
+	"Auxiliares.h"
+	"Blocos.h"
+
+1512618071 source:c:\users\antoniel\desktop\daniel\codeblocks\projetos\jogobreakout\jogo.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<TIME.H>
+	"arquivo.h"
+	"Auxiliares.h"
+	"Blocos.h"
+	"Jogo.h"
+	"Menu.h"
+	"Movimentacao.h"
+	"Ranking.h"
+	"tela.h"
+
+1512531064 source:c:\users\antoniel\desktop\daniel\codeblocks\projetos\jogobreakout\main.c
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+	<TIME.H>
+	<conio.h>
+	"Menu.h"
+
+1512618785 source:c:\users\antoniel\desktop\daniel\codeblocks\projetos\jogobreakout\ranking.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+	<locale.h>
+	"Ranking.h"
+	"arquivo.h"
+	"Auxiliares.h"
+
+1512531064 source:c:\users\antoniel\desktop\daniel\codeblocks\projetos\jogobreakout\tela.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<TIME.H>
+	"tela.h"
+	"Auxiliares.h"
+
+1512531151 source:c:\users\antoniel\desktop\daniel\codeblocks\projetos\jogobreakout\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<TIME.H>
+	"Menu.h"
+	"Auxiliares.h"
+	"Jogo.h"
+	"Ranking.h"
+	"tela.h"
+
+1512528244 source:c:\users\antoniel\desktop\daniel\codeblocks\projetos\jogobreakout\movimentacao.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<TIME.H>
+
+1512529095 c:\users\antoniel\desktop\daniel\codeblocks\projetos\jogobreakout\arquivo.h
+
+1512529095 c:\users\antoniel\desktop\daniel\codeblocks\projetos\jogobreakout\auxiliares.h
+
+1512530061 c:\users\antoniel\desktop\daniel\codeblocks\projetos\jogobreakout\tela.h
+
+1512529256 c:\users\antoniel\desktop\daniel\codeblocks\projetos\jogobreakout\blocos.h
+
+1512529256 c:\users\antoniel\desktop\daniel\codeblocks\projetos\jogobreakout\jogo.h
+
+1512529791 c:\users\antoniel\desktop\daniel\codeblocks\projetos\jogobreakout\menu.h
+
+1512529791 c:\users\antoniel\desktop\daniel\codeblocks\projetos\jogobreakout\movimentacao.h
+
+1512529926 c:\users\antoniel\desktop\daniel\codeblocks\projetos\jogobreakout\ranking.h
+
+1512530720 source:c:\users\daniel the god\desktop\codeblocks\projetos\jogobreakout\arquivo.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"arquivo.h"
+
+1512529095 c:\users\daniel the god\desktop\codeblocks\projetos\jogobreakout\arquivo.h
+
+1512530272 source:c:\users\daniel the god\desktop\codeblocks\projetos\jogobreakout\auxiliares.c
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+	<TIME.H>
+	<conio.h>
+	"Auxiliares.h"
+	"tela.h"
+
+1512529095 c:\users\daniel the god\desktop\codeblocks\projetos\jogobreakout\auxiliares.h
+
+1512878585 c:\users\daniel the god\desktop\codeblocks\projetos\jogobreakout\tela.h
+
+1512530353 source:c:\users\daniel the god\desktop\codeblocks\projetos\jogobreakout\blocos.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<TIME.H>
+	"Auxiliares.h"
+	"Blocos.h"
+
+1512529256 c:\users\daniel the god\desktop\codeblocks\projetos\jogobreakout\blocos.h
+
+1512531064 source:c:\users\daniel the god\desktop\codeblocks\projetos\jogobreakout\main.c
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+	<TIME.H>
+	<conio.h>
+	"Menu.h"
+
+1512529791 c:\users\daniel the god\desktop\codeblocks\projetos\jogobreakout\menu.h
+
+1513017014 source:c:\users\daniel the god\desktop\codeblocks\projetos\jogobreakout\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<TIME.H>
+	"Menu.h"
+	"Auxiliares.h"
+	"Jogo.h"
+	"Ranking.h"
+	"tela.h"
+
+1512529256 c:\users\daniel the god\desktop\codeblocks\projetos\jogobreakout\jogo.h
+
+1512529926 c:\users\daniel the god\desktop\codeblocks\projetos\jogobreakout\ranking.h
+
+1512528244 source:c:\users\daniel the god\desktop\codeblocks\projetos\jogobreakout\movimentacao.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<TIME.H>
+
+1513018019 source:c:\users\daniel the god\desktop\codeblocks\projetos\jogobreakout\ranking.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+	<locale.h>
+	"Ranking.h"
+	"arquivo.h"
+	"Auxiliares.h"
+
+1512620086 source:c:\users\daniel the god\desktop\codeblocks\projetos\jogobreakout\tela.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<TIME.H>
+	"tela.h"
+	"Auxiliares.h"
+
+1513017348 source:c:\users\daniel the god\desktop\codeblocks\projetos\jogobreakout\jogo.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<TIME.H>
+	"arquivo.h"
+	"Auxiliares.h"
+	"Blocos.h"
+	"Jogo.h"
+	"Menu.h"
+	"Movimentacao.h"
+	"Ranking.h"
+	"tela.h"
+
+1512529791 c:\users\daniel the god\desktop\codeblocks\projetos\jogobreakout\movimentacao.h
+
